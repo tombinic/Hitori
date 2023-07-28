@@ -54,6 +54,3 @@ To run the script simply run the <b>main.py</b> with the command <b>python main.
 <br />
 <br />
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="preview/1.png " alt="Network Image"> |  <img src="preview/2.png" alt="Network Image"> |<img src="preview/3.png" alt="Network Image">|
